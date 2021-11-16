@@ -1,0 +1,4 @@
+Button -> 
+cy.get('.btn').contains('Каса і Банк').should('be.disabled') // задізейблена  //not.be.disabled //не задізейблена
+
+link | a ->
